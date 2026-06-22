@@ -151,7 +151,7 @@ Used Claude to:
 
 ## Screen Recording
 
-[Link to screen recording — attach separately]
+https://drive.google.com/drive/folders/1p-5VU9KYB7z7s2YhwourvdBVMK6lhWnf?usp=sharing
 
 Flow shown:
 1. App launches with Pip the Robot
