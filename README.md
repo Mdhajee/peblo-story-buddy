@@ -1,3 +1,7 @@
+
+
+
+
 # Peblo Story Buddy 🤖📖
 
 A gamified, kid-friendly Flutter app that narrates a story using TTS and follows it with a dynamic quiz.
@@ -151,7 +155,7 @@ Used Claude to:
 
 ## Screen Recording
 
-https://drive.google.com/drive/folders/1p-5VU9KYB7z7s2YhwourvdBVMK6lhWnf?usp=sharing
+https://github.com/user-attachments/assets/b9469bf7-4cbe-4039-b7c2-bcf53e42c4e7
 
 Flow shown:
 1. App launches with Pip the Robot
