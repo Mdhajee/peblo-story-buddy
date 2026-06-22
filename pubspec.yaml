@@ -1,0 +1,29 @@
+name: peblo_story_buddy
+description: Peblo AI Story Buddy - Interactive story and quiz app for kids
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+  provider: ^6.1.2
+  confetti: ^0.8.0
+  vibration: ^3.2.0
+  audioplayers: ^6.0.0
+  shared_preferences: ^2.2.3
+  lottie: ^3.1.2
+  google_fonts: ^8.1.0
+  http: ^1.2.1
+  crypto: ^3.0.3
+  path_provider: ^2.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
